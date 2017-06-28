@@ -151,7 +151,18 @@ class Country
 
     public function getFlag()
     {
-        return $this->extension . '.png';
+        $this->flag = $this->extension . '.png';
+        return $this->flag;
+    }
+
+    public function getFlagHeaderPNG()
+    {
+        $im = imagecreatefrompng(dirname(__FILE__)."/flags/".$this->getFlag());
+
+        header('Content-Type: image/png');
+
+        imagepng($im);
+        imagedestroy($im);
     }
 
 }

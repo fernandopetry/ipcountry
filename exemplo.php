@@ -13,3 +13,5 @@ $end = microtime(true);
 
 var_dump(($end - $start));
 
+echo '<img src="flag.php" alt="Bandeira" />';
+

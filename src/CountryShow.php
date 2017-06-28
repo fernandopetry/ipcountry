@@ -24,6 +24,11 @@ use Petry\IpCountry\Data;
 class CountryShow
 {
 
+    /**
+     * Recupera PAÍS pelo IP
+     * @param string $ip
+     * @return Country
+     */
     public static function getCountryByIp($ip=false)
     {
         $ip = ($ip) ? $ip : filter_input(INPUT_SERVER, 'REMOTE_ADDR');
