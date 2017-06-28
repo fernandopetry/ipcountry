@@ -65,7 +65,7 @@ class Country
      * @var integer
      */
     private $ibge;
-    
+
     /**
      * Bandeira do País
      * @var string
@@ -147,6 +147,11 @@ class Country
     {
         $this->ibge = $ibge;
         return $this;
+    }
+
+    public function getFlag()
+    {
+        return $this->extension . '.png';
     }
 
 }
