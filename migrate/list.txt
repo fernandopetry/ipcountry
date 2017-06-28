@@ -1,0 +1,233 @@
+ar-AE	 Emirados Árabes Unidos
+ar-BH	 Bahrein
+ar-DZ	 Argélia
+ar-EG	 Egito
+ar-IL	 Israel
+ar-IQ	 Iraque
+ar-JO	 Jordânia
+ar-KW	 Kuwait
+ar-LB	 Líbano
+ar-LY	 Líbia
+ar-MA	 Marrocos
+ar-MR	 Mauritânia
+ar-OM	 Omã
+ar-PS	 Palestina
+ar-QA	 Catar
+ar-SA	 Arábia Saudita
+ar-SD	 Sudão
+ar-SO	 Somália
+ar-SY	 Síria
+ar-TD	 Chade
+ar-TN	 Tunísia
+ar-YE	 Iêmen
+bn-BD	 Bangladesh
+bn-IN	 Índia
+bn-SG	 Singapura
+ch-GU	 Guam
+ch-MP	 Marianas Setentrionais
+zh-CN	 China
+zh-HK	 Hong Kong
+zh-MO	 Macau
+zh-SG	 Singapura
+zh-TW	 Taiwan
+ko-KP	 Coreia do Norte
+ko-KR	 Coreia do Sul
+hr-BA	 Bósnia e Herzegovina
+hr-HR	 Croácia
+da-DK	 Dinamarca
+da-GL	 Gronelândia
+fr-AD	 Andorra
+fr-BE	 Bélgica
+fr-BF	 Burkina Faso
+fr-BI	 Burundi
+fr-BJ	 Benim
+fr-CA	 Canadá
+fr-CD	 República Democrática do Congo
+fr-CF	 República Centro-Africana
+fr-CG	 República do Congo
+fr-CH	 Suíça
+fr-CI	 Costa do Marfim
+fr-CM	 Camarões
+fr-DJ	 Djibouti
+fr-FR	 França
+fr-GA	 Gabão
+fr-GB	 Reino Unido
+fr-GF	 Guiana Francesa
+fr-GN	 Papua-Nova Guiné
+fr-GP	 Guadalupe
+fr-HT	 Haiti
+fr-IT	 Itália
+fr-KM	 Comores
+fr-LB	 Líbano
+fr-LU	 Luxemburgo
+fr-MC	 Mónaco
+fr-MG	 Madagáscar
+fr-ML	 Mali
+fr-MQ	 Martinica
+fr-NC	 Nova Caledônia
+fr-PF	 Polinésia Francesa
+fr-PM	 Saint-Pierre e Miquelon
+fr-RE	 Reunião
+fr-RW	 Ruanda
+fr-SC	 Seicheles
+fr-TD	 Chade
+fr-TG	 Togo
+fr-VU	 Vanuatu
+fr-WF	 Wallis e Futuna
+fr-YT	 Mayotte
+el-CY	 Chipre
+el-GR	 Grécia
+en-AN	 Antilhas Holandesas
+en-AI	 Anguilla
+en-AS	 Samoa Americana
+en-AU	 Austrália
+en-BB	 Barbados
+en-BM	 Bermudas
+en-BN	 Brunei
+en-BS	 Bahamas
+en-BW	 Botswana
+en-BZ	 Belize
+en-CA	 Canadá
+en-CK	 Ilhas Cook
+en-CM	 Camarões
+en-DM	 República Dominicana
+en-ER	 Eritreia
+en-ET	 Etiópia
+en-FJ	 Fiji
+en-FK	 Ilhas Malvinas
+en-FM	 Estados Federados da Micronésia
+en-GB	 Reino Unido
+en-GD	 Granada
+en-GH	 Gana
+en-GI	 Gibraltar
+en-GM	 Gâmbia
+en-GU	 Guam
+en-GY	 Guiana
+en-IE	 Irlanda
+en-IL	 Israel
+en-IO	 Território Britânico do Oceano Índico
+en-JM	 Jamaica
+en-KE	 Quênia
+en-KI	 Kiribati
+en-KN	 São Cristóvão e Nevis
+en-KY	 Ilhas Cayman
+en-LC	 Santa Lúcia
+en-LR	 Libéria
+en-LS	 Lesoto
+en-MP	 Marianas Setentrionais
+en-MS	 Montserrat
+en-MT	 Malta
+en-MU	 Maurícia
+en-MW	 Malawi
+en-NA	 Namíbia
+en-NF	 Ilha Norfolk
+en-NG	 Nigéria
+en-NR	 Nauru
+en-NU	 Niue
+en-NZ	 Nova Zelândia
+en-PG	 Papua-Nova Guiné
+en-PH	 Filipinas
+en-PK	 Paquistão
+en-PN	 Pitcairn
+en-PR	 Porto Rico
+en-PW	 Palestina
+en-RW	 Ruanda
+en-SB	 Ilhas Salomão
+en-SC	 Seicheles
+en-SG	 Singapura
+en-SH	 Santa Helena, Ascensão e Tristão da Cunha
+en-SL	 Serra Leoa
+en-SO	 Somália
+en-SZ	 Suazilândia
+en-TC	 Turks e Caicos
+en-TK	 Toquelau
+en-TO	 Tonga
+en-TT	 Trinidad e Tobago
+en-UG	 Uganda
+en-US	 Estados Unidos
+en-VC	 São Vicente e Granadinas
+en-VG	 Ilhas Virgens Britânicas
+en-VI	 Ilhas Virgens Americanas
+en-VU	 Vanuatu
+en-WS	 Samoa
+en-ZA	 África do Sul
+en-ZM	 Zâmbia
+en-ZW	 Zimbabwe
+ga-GB	 Reino Unido
+ga-IE	 Irlanda
+it-CH	 Suíça
+it-HR	 Croácia
+it-IT	 Itália
+it-SI	 Eslovênia
+it-SM	 San Marino
+ln-CD	 República Democrática do Congo
+ln-CG	 República do Congo
+ms-BN	 Brunei
+ms-MY	 Malásia
+ms-SG	 Singapura
+nl-AN	 Antilhas Holandesas
+nl-AW	 Aruba
+nl-BE	 Bélgica
+nl-NL	 Países Baixos
+nl-SR	 Suriname
+ur-IN	 Índia
+ur-PK	 Paquistão
+hu-HU	 Hungria
+hu-SI	 Eslovênia
+tr-BG	 Bulgária
+tr-CY	 Chipre
+tr-TR	 Turquia
+tn-BW	 Botswana
+tn-ZA	 África do Sul
+de-AT	 Áustria
+de-BE	 Bélgica
+de-CH	 Suíça
+de-DE	 Alemanha
+de-DK	 Dinamarca
+de-LI	 Liechtenstein
+de-LU	 Luxemburgo
+ta-IN	 Índia
+ta-LK	 Sri Lanka
+ta-SG	 Singapura
+ss-SZ	 Suazilândia
+ss-ZA	 África do Sul
+sw-KE	 Quênia
+sw-TZ	 Tanzânia
+sv-FI	 Finlândia
+sv-SE	 Suécia
+es-AR	 Argentina
+es-BO	 Bolívia
+es-CL	 Chile
+es-CO	 Colômbia
+es-CR	 Costa Rica
+es-CU	 Cuba
+es-DO	 República Dominicana
+es-EC	 Equador
+es-ES	 Espanha
+es-GQ	 Guiné Equatorial
+es-GT	 Guatemala
+es-HN	 Honduras
+es-MX	 México
+es-NI	 Nicarágua
+es-PA	 Panamá
+es-PE	 Peru
+es-PR	 Porto Rico
+es-PY	 Paraguai
+es-SV	 El Salvador
+es-US	 Estados Unidos
+es-UY	 Uruguai
+es-VE	 Venezuela
+hi-IN	 Índia
+hi-PK	 Paquistão
+sr-BA	 Bósnia e Herzegovina
+sr-YU	 Sérvia e Montenegro
+ro-MD	 Moldávia
+ro-RO	 Roménia
+pt-AO	 Angola
+pt-BR	 Brasil
+pt-CV	 Cabo Verde Cabo Verde
+pt-GW	 Guiné-Bissau
+pt-MZ	 Moçambique
+pt-PT	 Portugal
+pt-ST	 São Tomé e Príncipe
+pt-TL	 Timor-Leste
