@@ -48,7 +48,6 @@ class Data
         if ($filter->getSessionActive()) {
             $sessionID = session_id();
             if (!empty($sessionID) && isset($_SESSION[self::$sessionName])) {
-                var_dump("Sessao");
                 return unserialize($_SESSION[self::$sessionName]);
             }
         }
